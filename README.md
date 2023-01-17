@@ -1,5 +1,5 @@
 # <p align="center"> Li Zhiyuan </p>  
-Mobile +971 524368855 <br/>                        <img align="right" src="https://github.com/lzyuan168/lzyuan168.github.io/blob/main/scan3.jpg" height=115 width=100>
+Mobile +65 87568192 <br/>                        <img align="right" src="https://github.com/lzyuan168/lzyuan168.github.io/blob/main/scan3.jpg" height=115 width=100>
 Email: Lzyuan168@gmail.com <br/>
 LinkedIn: https://www.linkedin.com/in/zhiyuan-li-a19b0863/ <br/> 
 Nationality: Singaporean
