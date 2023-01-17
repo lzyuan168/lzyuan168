@@ -14,9 +14,9 @@ I am a Master’s graduate from Mohamed bin Zayed University of Artificial Intel
 
 | Year 	| Name of Company 	| Country 	|
 |:---	|:---	|:---	|
-| July 2019 – Nov 2020 	| **NCS Pte Ltd**<br> * API Gateway Setup using TYK and MuleSoft (project client People’s Association and Singapore Tourism Board)<br> * API transformation and onboarding for TYK API (project client Ministry of National Development)<br> * Digital Notice System, Java project on tax letters (project client Income Revenue Authority of Singapore)<br>  	| Singapore 	|
-| Feb 2018 – July 2018 	| **ASM Pacific Technology**<br> * Deep learning in Machine vision<br> * Using Tensorflow backend and Convolutional Neural network to train machine to recognize defects in integrated circuits<br>  	| Singapore 	|
-| May 2017 – July 2017 	| **MoneySmart.sg**<br> * Developed a chatbot using python<br> * Simple database design and management using MySQL and PeeWee<br> * Github operations<br> * Environment variables 	| Singapore 	|
+| July 2019 – Nov 2020 	| **Application Consultant at NCS Pte Ltd**<br> * API Gateway Setup using TYK and MuleSoft (project client People’s Association and Singapore Tourism Board)<br> * API transformation and onboarding for TYK API (project client Ministry of National Development)<br> * Digital Notice System, Java project on tax letters (project client Income Revenue Authority of Singapore)<br>  	| Singapore 	|
+| Feb 2018 – July 2018 	| **Deep Learning Intern at ASM Pacific Technology**<br> * Deep learning in Machine vision<br> * Using Tensorflow backend and Convolutional Neural network to train machine to recognize defects in integrated circuits<br>  	| Singapore 	|
+| May 2017 – July 2017 	| **Chatbot Intern at MoneySmart.sg**<br> * Developed a chatbot using python<br> * Simple database design and management using MySQL and PeeWee<br> * Github operations<br> * Environment variables 	| Singapore 	|
 
 
 ## Skill Sets & Proficiency
@@ -32,8 +32,8 @@ I am a Master’s graduate from Mohamed bin Zayed University of Artificial Intel
 
 | Year 	| Name of School 	| Country 	|
 |:---	|:---	| :---	|
-| Jan 2021 - Dec 2022 	| **Mohamed bin Zayed University of Artificial Intelligence**<br> * Master in Machine Learning<br> * Full scholarship<br>  	| Abu Dhabi 	|
-| Aug 2015 – July 2019 	| **National University of Singapore (NUS)**<br> * Bachelor of Engineering (Honours) Computer Engineering<br> * Bachelor dissertation topic – Clothes Detection and Recommendation<br>  	|           Singapore 	|
+| Jan 2021 - Dec 2022 	| **Mohamed bin Zayed University of Artificial Intelligence**<br> * Master in Machine Learning<br> * Full scholarship<br> * GPA 3.84<br> 	| Abu Dhabi 	|
+| Aug 2015 – July 2019 	| **National University of Singapore (NUS)**<br> * Bachelor of Engineering (Honours) Computer Engineering<br> * Bachelor dissertation topic – Clothes Detection and Recommendation<br> * GPA 3.5<br> 	|           Singapore 	|
 | Aug 2017 – Feb 2018 	| **Delft University of Technology**<br/> * Student exchange programme<br>  	| Netherlands 	|
 | Jan 2011 – Dec 2012 	| **Hwa Chong Institution (Junior College)**<br> * Singapore-Cambridge General Certificate of Education Advanced Level<br> * Subjects: Physics, Chemistry, Mathematics, Economics, Project Work<br>  	|           Singapore 	|
 
