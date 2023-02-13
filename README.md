@@ -19,9 +19,9 @@ Project summary:
 
 ## Core Competency
 
-Python            Scikit-learn                          Convolutional Neural Network
-Pytorch           Probability and Statistics            Linux Environment
-Tensorflow        Data Preprocessing                    Communication
+Python            &emsp Scikit-learn                          Convolutional Neural Network
+Pytorch           &emsp Probability and Statistics            Linux Environment
+Tensorflow        &emsp Data Preprocessing                    Communication
 
 
 ## Employment History
@@ -36,6 +36,7 @@ Tensorflow        Data Preprocessing                    Communication
 * Digital Notice System (tax letters) development and maintenance using Java for Inland Revenue Authority of Singapore
 
 <br> 
+
 **Deep Learning Intern**							          
 **ASM Pacific Technology**      
 <br>Singapore
@@ -45,6 +46,7 @@ Tensorflow        Data Preprocessing                    Communication
 * Image labelling and data collection of the semi-conductor epoxy resins
 
 <br>
+
 **Chatbot Intern**							                        
 **MoneySmart.sg**          
 <br>Singapore
@@ -67,6 +69,7 @@ Tensorflow        Data Preprocessing                    Communication
 * GPA 3.84 / 4
 
 <br>
+
 **National University of Singapore**                                                                                                  
 **Bachelor of Engineering (Honours) Computer Engineering** 
 <br>Singapore
@@ -76,6 +79,7 @@ Tensorflow        Data Preprocessing                    Communication
 * GPA 3.5 / 5
 
 <br>
+
 **Professional Qualifications / Certifications**
 
 * Professional Scrum Master 1
@@ -83,8 +87,7 @@ Tensorflow        Data Preprocessing                    Communication
 
 ## Scholastic Achievements
 
-Second position in Innovation Challenge for Entrepreneurship (ICE) 2022                          
-<br>Abu Dhabi
+Second position in Innovation Challenge for Entrepreneurship (ICE) 2022, Abu Dhabi
 
 * Competition across all GCC countries
 * Developed a prototype for classifying student’s emotions through real-time analysis of video conferencing applications such as Zoom and Webex and provide feedback to teaching instructors for immediate intervention.
