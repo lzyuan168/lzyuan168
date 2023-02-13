@@ -19,15 +19,9 @@ Project summary:
 
 ## Core Competency
 
-Python
-Pytorch
-Tensorflow
-Scikit-learn
-Probability and Statistics
-Data Preprocessing
-Convolutional Neural Network
-Linux Environment
-Communication
+Python            Scikit-learn                          Convolutional Neural Network
+Pytorch           Probability and Statistics            Linux Environment
+Tensorflow        Data Preprocessing                    Communication
 
 
 ## Employment History
@@ -41,7 +35,7 @@ Communication
 * TYK API transformation and onboarding for Ministry of National Development
 * Digital Notice System (tax letters) development and maintenance using Java for Inland Revenue Authority of Singapore
 
- 
+<br> 
 **Deep Learning Intern**							          
 **ASM Pacific Technology**      
 <br>Singapore
@@ -50,7 +44,7 @@ Communication
 * Deep learning model implementation and training using Tensorflow and Masked R-CNN for segmentation and classification of defective semi-conductor epoxy resins
 * Image labelling and data collection of the semi-conductor epoxy resins
 
-
+<br>
 **Chatbot Intern**							                        
 **MoneySmart.sg**          
 <br>Singapore
@@ -72,7 +66,7 @@ Communication
 * Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection
 * GPA 3.84 / 4
 
-
+<br>
 **National University of Singapore**                                                                                                  
 **Bachelor of Engineering (Honours) Computer Engineering** 
 <br>Singapore
@@ -81,6 +75,7 @@ Communication
 * Thesis topic: Clothes Classification and Recommendation
 * GPA 3.5 / 5
 
+<br>
 **Professional Qualifications / Certifications**
 
 * Professional Scrum Master 1
