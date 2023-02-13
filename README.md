@@ -34,65 +34,65 @@ Communication
 
 **Software Engineer**           					                        
 **NCS Pte Ltd**  
-Singapore
-Jul 2019 – Nov 2020
+<br>Singapore
+<br>Jul 2019 – Nov 2020
 
-•	API Gateway Setup using TYK and MuleSoft for People’s Association and Singapore Tourism Board
-•	TYK API transformation and onboarding for Ministry of National Development
-•	Digital Notice System (tax letters) development and maintenance using Java for Inland Revenue Authority of Singapore
+* API Gateway Setup using TYK and MuleSoft for People’s Association and Singapore Tourism Board
+* TYK API transformation and onboarding for Ministry of National Development
+* Digital Notice System (tax letters) development and maintenance using Java for Inland Revenue Authority of Singapore
 
  
 **Deep Learning Intern**							          
 **ASM Pacific Technology**      
-Singapore
-Feb 2018 – Jul 2018
+<br>Singapore
+<br>Feb 2018 – Jul 2018
 
-•	Deep learning model implementation and training using Tensorflow and Masked R-CNN for segmentation and classification of defective semi-conductor epoxy resins
-•	Image labelling and data collection of the semi-conductor epoxy resins
+* Deep learning model implementation and training using Tensorflow and Masked R-CNN for segmentation and classification of defective semi-conductor epoxy resins
+* Image labelling and data collection of the semi-conductor epoxy resins
 
 
 **Chatbot Intern**							                        
 **MoneySmart.sg**          
-Singapore
-May 2017 – Jul 2017
+<br>Singapore
+<br>May 2017 – Jul 2017
 
-•	Chatbot development and maintenance using python and Flask
-•	Database design and management using MySQL and PeeWee
+* Chatbot development and maintenance using python and Flask
+* Database design and management using MySQL and PeeWee
 
 
 ## Educational & Professional Qualifications
 
 **Mohamed bin Zayed University of Artificial Intelligence**                   
 **Master of Science** 
-Adu Dhabi
-Jan 2021 – Dec 2022
+<br>Adu Dhabi
+<br>Jan 2021 – Dec 2022
 
-•	Machine learning Specialization
-•	Full scholarship
-•	Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection
-•	GPA 3.84 / 4
+* Machine learning Specialization
+* Full scholarship
+* Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection
+* GPA 3.84 / 4
 
 
 **National University of Singapore**                                                                                                  
 **Bachelor of Engineering (Honours) Computer Engineering** 
-Singapore
-Aug 2015 – Jul 2019
+<br>Singapore
+<br>Aug 2015 – Jul 2019
 
-•	Thesis topic: Clothes Classification and Recommendation
-•	GPA 3.5 / 5
+* Thesis topic: Clothes Classification and Recommendation
+* GPA 3.5 / 5
 
 **Professional Qualifications / Certifications**
 
-•	Professional Scrum Master 1
+* Professional Scrum Master 1
 
 
 ## Scholastic Achievements
 
 Second position in Innovation Challenge for Entrepreneurship (ICE) 2022                          
-Abu Dhabi
+<br>Abu Dhabi
 
-•	Competition across all GCC countries
-•	Developed a prototype for classifying student’s emotions through real-time analysis of video conferencing applications such as Zoom and Webex and provide feedback to teaching instructors for immediate intervention.
+* Competition across all GCC countries
+* Developed a prototype for classifying student’s emotions through real-time analysis of video conferencing applications such as Zoom and Webex and provide feedback to teaching instructors for immediate intervention.
 
 
 ## Language Proficiency
