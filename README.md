@@ -27,15 +27,15 @@ Probability and Statistics\
 Data Preprocessing\
 Convolutional Neural Network\
 Linux Environment\
-Communication\
+Communication
 
 
 ## Employment History
 
-**Software Engineer**
-**NCS Pte Ltd**
-<br>Singapore
-<br>Jul 2019 – Nov 2020
+**Software Engineer**\
+**NCS Pte Ltd**\
+Singapore\
+Jul 2019 – Nov 2020
 
 * API Gateway Setup using TYK and MuleSoft for People’s Association and Singapore Tourism Board
 * TYK API transformation and onboarding for Ministry of National Development
@@ -43,20 +43,20 @@ Communication\
 
 <br> 
 
-**Deep Learning Intern**
-**ASM Pacific Technology**
-<br>Singapore
-<br>Feb 2018 – Jul 2018
+**Deep Learning Intern**\
+**ASM Pacific Technology**\
+Singapore\
+Feb 2018 – Jul 2018
 
 * Deep learning model implementation and training using Tensorflow and Masked R-CNN for segmentation and classification of defective semi-conductor epoxy resins
 * Image labelling and data collection of the semi-conductor epoxy resins
 
 <br>
 
-**Chatbot Intern**
-**MoneySmart.sg**
-<br>Singapore
-<br>May 2017 – Jul 2017
+**Chatbot Intern**\
+**MoneySmart.sg**\
+Singapore\
+May 2017 – Jul 2017
 
 * Chatbot development and maintenance using python and Flask
 * Database design and management using MySQL and PeeWee
@@ -64,10 +64,10 @@ Communication\
 
 ## Educational & Professional Qualifications
 
-**Mohamed bin Zayed University of Artificial Intelligence**
-**Master of Science**
-<br>Adu Dhabi
-<br>Jan 2021 – Dec 2022
+**Mohamed bin Zayed University of Artificial Intelligence**\
+**Master of Science**\
+Adu Dhabi\
+Jan 2021 – Dec 2022
 
 * Machine learning Specialization
 * Full scholarship
@@ -76,10 +76,10 @@ Communication\
 
 <br>
 
-**National University of Singapore**
-**Bachelor of Engineering (Honours) Computer Engineering**
-<br>Singapore
-<br>Aug 2015 – Jul 2019
+**National University of Singapore**\
+**Bachelor of Engineering (Honours) Computer Engineering**\
+Singapore\
+Aug 2015 – Jul 2019
 
 * Thesis topic: Clothes Classification and Recommendation
 * GPA 3.5 / 5
