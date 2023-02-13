@@ -19,15 +19,21 @@ Project summary:
 
 ## Core Competency
 
-Python            &emsp Scikit-learn                          Convolutional Neural Network
-Pytorch           &emsp Probability and Statistics            Linux Environment
-Tensorflow        &emsp Data Preprocessing                    Communication
+Python\
+Pytorch\
+Tensorflow\
+Scikit-learn\
+Probability and Statistics\
+Data Preprocessing\
+Convolutional Neural Network\
+Linux Environment\
+Communication\
 
 
 ## Employment History
 
-**Software Engineer**           					                        
-**NCS Pte Ltd**  
+**Software Engineer**
+**NCS Pte Ltd**
 <br>Singapore
 <br>Jul 2019 – Nov 2020
 
@@ -37,8 +43,8 @@ Tensorflow        &emsp Data Preprocessing                    Communication
 
 <br> 
 
-**Deep Learning Intern**							          
-**ASM Pacific Technology**      
+**Deep Learning Intern**
+**ASM Pacific Technology**
 <br>Singapore
 <br>Feb 2018 – Jul 2018
 
@@ -47,8 +53,8 @@ Tensorflow        &emsp Data Preprocessing                    Communication
 
 <br>
 
-**Chatbot Intern**							                        
-**MoneySmart.sg**          
+**Chatbot Intern**
+**MoneySmart.sg**
 <br>Singapore
 <br>May 2017 – Jul 2017
 
@@ -58,8 +64,8 @@ Tensorflow        &emsp Data Preprocessing                    Communication
 
 ## Educational & Professional Qualifications
 
-**Mohamed bin Zayed University of Artificial Intelligence**                   
-**Master of Science** 
+**Mohamed bin Zayed University of Artificial Intelligence**
+**Master of Science**
 <br>Adu Dhabi
 <br>Jan 2021 – Dec 2022
 
@@ -70,8 +76,8 @@ Tensorflow        &emsp Data Preprocessing                    Communication
 
 <br>
 
-**National University of Singapore**                                                                                                  
-**Bachelor of Engineering (Honours) Computer Engineering** 
+**National University of Singapore**
+**Bachelor of Engineering (Honours) Computer Engineering**
 <br>Singapore
 <br>Aug 2015 – Jul 2019
 
