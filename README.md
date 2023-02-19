@@ -7,7 +7,7 @@ Nationality: Singaporean
 
 ## Profile
 
-Dedicated and highly motivated machine learning graduate with 1.5 years of experience developing and delivering software solutions to clients. Proficient in programming languages such as Python and Java and experienced in using deep learning frameworks such as Pytorch and Tensorflow. Strong understanding of statistical methods and algorithms, including regression, classification, and clustering. Proven track record of producing accurate and effective models using different data modalities, including natural language, image, video, and physiological signals. Seeking a challenging role in a dynamic and innovative environment to continue learning and contributing to the advancement of machine learning.
+Experienced software engineer in developing and delivering software solutions for clients. Dedicated and highly motivated machine learning graduate with proficiency in programming languages such as Python and Java and experience in using deep learning frameworks such as PyTorch and TensorFlow. Strong understanding of statistical methods and algorithms, including regression, classification, and clustering. Proven track record of producing accurate and effective models using different data types, including text, image, video, and physiological signals. Bilingual, organized, and adaptive. A team player who contributes to innovation, and advancements of machine learning as well as creating solutions that brings convenience to people and society.
 
 Project summary:
 * [Covid-19 Fake News Detection](https://github.com/lzyuan168/fake_news_detection) NLP project
@@ -20,14 +20,20 @@ Project summary:
 ## Core Competency
 
 Python\
-Pytorch\
-Tensorflow\
+PyTorch\
+TensorFlow\
 Scikit-learn\
 Probability and Statistics\
 Data Preprocessing\
 Convolutional Neural Network\
 Linux Environment\
-Communication
+Communication\
+Image/Video Classification\
+Object Detection\
+Data Structure and Algorithms\
+Text Classification\
+Signal Classification\
+Image Segmentation
 
 
 ## Employment History
@@ -48,7 +54,7 @@ Jul 2019 – Nov 2020
 Singapore\
 Feb 2018 – Jul 2018
 
-* Deep learning model implementation and training using Tensorflow and Masked R-CNN for segmentation and classification of defective semi-conductor epoxy resins
+* Deep learning model implementation and training using TensorFlow and Masked R-CNN for segmentation and classification of defective semi-conductor epoxy resins
 * Image labelling and data collection of the semi-conductor epoxy resins
 
 <br>
@@ -73,6 +79,7 @@ Jan 2021 – Dec 2022
 * Full scholarship
 * Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection
 * GPA 3.84 / 4
+Mohamed bin Zayed University of Artificial Intelligence is the first graduate-level, research-based academic institution in the world, specializing in machine learning, computer vision and natural language processing
 
 <br>
 
@@ -93,7 +100,7 @@ Aug 2015 – Jul 2019
 
 ## Scholastic Achievements
 
-Second position in Innovation Challenge for Entrepreneurship (ICE) 2022, Abu Dhabi
+The Second position in Innovation Challenge for Entrepreneurship (ICE) 2022, Abu Dhabi
 
 * Competition across all GCC countries
 * Developed a prototype for classifying student’s emotions through real-time analysis of video conferencing applications such as Zoom and Webex and provide feedback to teaching instructors for immediate intervention.
