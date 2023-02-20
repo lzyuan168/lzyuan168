@@ -79,6 +79,7 @@ Jan 2021 – Dec 2022
 * Full scholarship
 * Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection
 * GPA 3.84 / 4
+
 Mohamed bin Zayed University of Artificial Intelligence is the first graduate-level, research-based academic institution in the world, specializing in machine learning, computer vision and natural language processing
 
 <br>
