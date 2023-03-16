@@ -36,38 +36,6 @@ Signal Classification\
 Image Segmentation
 
 
-## Employment History
-
-**Software Engineer**\
-**NCS Pte Ltd**\
-Singapore\
-Jul 2019 – Nov 2020
-
-* API Gateway Setup using TYK and MuleSoft for People’s Association and Singapore Tourism Board
-* TYK API transformation and onboarding for Ministry of National Development
-* Digital Notice System (tax letters) development and maintenance using Java for Inland Revenue Authority of Singapore
-
-<br> 
-
-**Deep Learning Intern**\
-**ASM Pacific Technology**\
-Singapore\
-Feb 2018 – Jul 2018
-
-* Deep learning model implementation and training using TensorFlow and Masked R-CNN for segmentation and classification of defective semi-conductor epoxy resins
-* Image labelling and data collection of the semi-conductor epoxy resins
-
-<br>
-
-**Chatbot Intern**\
-**MoneySmart.sg**\
-Singapore\
-May 2017 – Jul 2017
-
-* Chatbot development and maintenance using python and Flask
-* Database design and management using MySQL and PeeWee
-
-
 ## Educational & Professional Qualifications
 
 **Mohamed bin Zayed University of Artificial Intelligence**\
@@ -77,7 +45,7 @@ Jan 2021 – Dec 2022
 
 * Machine learning Specialization
 * Full scholarship
-* Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection
+* Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection (Project aims to replace physical keys with owner’s biometrics to provide added security for vehicle access and to monitor driver’s stress level so as to prevent road rage accidents. Application in real-world for fraud detection)
 * GPA 3.84 / 4
 
 Mohamed bin Zayed University of Artificial Intelligence is the first graduate-level, research-based academic institution in the world, specializing in machine learning, computer vision and natural language processing
@@ -89,7 +57,7 @@ Mohamed bin Zayed University of Artificial Intelligence is the first graduate-le
 Singapore\
 Aug 2015 – Jul 2019
 
-* Thesis topic: Clothes Classification and Recommendation
+* Thesis topic: Clothes Classification and Recommendation (Project aims to identify the type of clothes present in the image and recommend consumers related clothing types from online stores. Application for customer experience using Virtual Reality and Augmented Reality)
 * GPA 3.5 / 5
 
 <br>
@@ -99,9 +67,44 @@ Aug 2015 – Jul 2019
 * Professional Scrum Master 1
 
 
+## Employment History
+
+**Software Engineer**\
+**NCS Pte Ltd**\
+Singapore\
+Jul 2019 – Nov 2020
+
+*	Setup TYK API Gateway through Amazon Elastic Container Service (ECS) and Elastic Compute Cloud (EC2) for People’s Association and MuleSoft API for Singapore Tourism Board
+*	Transformed older version API to TYK API and onboarded the API for the Ministry of National Development
+*	Developed and maintained Digital Notice System (tax letters) using Java for the Inland Revenue Authority of Singapore
+
+
+<br> 
+
+**Deep Learning Intern**\
+**ASM Pacific Technology**\
+Singapore\
+Feb 2018 – Jul 2018
+
+* Implemented and trained deep learning model using TensorFlow and Masked R-CNN for segmentation and classification of defective semi-conductor epoxy resins
+*	Labelled and collected image data of the semi-conductor epoxy resins
+
+
+<br>
+
+**Chatbot Intern**\
+**MoneySmart Group**\
+Singapore\
+May 2017 – Jul 2017
+
+*	Developed and maintained chatbot using python and Flask
+*	Designed and managed database using MySQL and PeeWee
+
+
+
 ## Scholastic Achievements
 
-The Second position in Innovation Challenge for Entrepreneurship (ICE) 2022, Abu Dhabi
+Second position in Innovation Challenge for Entrepreneurship (ICE) 2022, Abu Dhabi
 
 * Competition across all GCC countries
 * Developed a prototype for classifying student’s emotions through real-time analysis of video conferencing applications such as Zoom and Webex and provide feedback to teaching instructors for immediate intervention.
