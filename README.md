@@ -49,6 +49,8 @@ Jul 2023 – Present
 * Improved image processing speed by 20 times through CUDA parallel programming using PyCUDA for customized cv2 functions
 
 
+<br>
+
 **Software Engineer**\
 **NCS Pte Ltd**\
 Singapore\
