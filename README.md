@@ -7,7 +7,7 @@ Nationality: Singaporean
 
 ## Profile
 
-Experienced software engineer in developing and delivering software solutions for clients. Dedicated and highly motivated machine learning graduate with proficiency in programming languages such as Python and Java and experience in using deep learning frameworks such as PyTorch and TensorFlow. Strong understanding of statistical methods and algorithms, including regression, classification, and clustering. Proven track record of producing accurate and effective models using different data types, including text, image, video, and physiological signals. Bilingual, organized, and adaptive. A team player who contributes to innovation, and advancements of machine learning as well as creating solutions that brings convenience to people and society.
+Dedicated and highly motivated machine learning engineer with proficiency in programming languages such as Python and Java and experience in using deep learning frameworks such as PyTorch and TensorFlow. Experience in optimizing model through TensorRT. Knowledge in video data pre-processing techniques such as intrinsic camera calibration, and image warping through homographic matrix. Proven track record of producing accurate and effective models using different data types, including text, image, video, and physiological signals. Bilingual, organized, and adaptive. A team player who contributes to innovation, and advancements of machine learning as well as creating solutions that brings convenience to people and society.
 
 Project summary:
 * [Covid-19 Fake News Detection](https://github.com/lzyuan168/fake_news_detection) NLP project
