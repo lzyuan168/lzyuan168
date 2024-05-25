@@ -22,52 +22,32 @@ Project summary:
 Python\
 PyTorch\
 TensorFlow\
+TensorRT\
+Image/Video Classification\
+Text Classification\
 Scikit-learn\
 Probability and Statistics\
 Data Preprocessing\
+Object Detection\
+Signal Classification\
+Image Segmentation\
 Convolutional Neural Network\
 Linux Environment\
-Communication\
-Image/Video Classification\
-Object Detection\
 Data Structure and Algorithms\
-Text Classification\
-Signal Classification\
-Image Segmentation
-
-
-## Educational & Professional Qualifications
-
-**Mohamed bin Zayed University of Artificial Intelligence**\
-**Master of Science**\
-Adu Dhabi\
-Jan 2021 – Dec 2022
-
-* Machine learning Specialization
-* Full scholarship
-* Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection (Project aims to replace physical keys with owner’s biometrics to provide added security for vehicle access and to monitor driver’s stress level so as to prevent road rage accidents. Application in real-world for fraud detection)
-* GPA 3.84 / 4
-
-Mohamed bin Zayed University of Artificial Intelligence is the first graduate-level, research-based academic institution in the world, specializing in machine learning, computer vision and natural language processing
-
-<br>
-
-**National University of Singapore**\
-**Bachelor of Engineering (Honours) Computer Engineering**\
-Singapore\
-Aug 2015 – Jul 2019
-
-* Thesis topic: Clothes Classification and Recommendation (Project aims to identify the type of clothes present in the image and recommend consumers related clothing types from online stores. Application for customer experience using Virtual Reality and Augmented Reality)
-* GPA 3.5 / 5
-
-<br>
-
-**Professional Qualifications / Certifications**
-
-* Professional Scrum Master 1
 
 
 ## Employment History
+
+**Machine Learning, Senior Engineer**\
+**ST Engineering**\
+Singapore\
+Jul 2023 – Present
+
+* Worked on projects such as Video Anomaly Detection, Unattended Object Detection, Workplace Safety, and Visible and Thermal Image Fusion
+* Optimized the models through TensorRT and torch2trt
+* Performed data pre-processing such as Intrinsic camera calibration, and image warping through homographic matrix
+* Improved image processing speed by 20 times through CUDA parallel programming using PyCUDA for customized cv2 functions
+
 
 **Software Engineer**\
 **NCS Pte Ltd**\
@@ -100,6 +80,36 @@ May 2017 – Jul 2017
 *	Developed and maintained chatbot using python and Flask
 *	Designed and managed database using MySQL and PeeWee
 
+
+## Educational & Professional Qualifications
+
+**Mohamed bin Zayed University of Artificial Intelligence**\
+**Master of Science**\
+Adu Dhabi\
+Jan 2021 – Dec 2022
+
+* Machine learning Specialization
+* Full scholarship
+* Thesis topic: End-to-end Deep Neural Network for Multimodal Biometric Authentication and Driver Stress Detection (Project aims to replace physical keys with owner’s biometrics to provide added security for vehicle access and to monitor driver’s stress level so as to prevent road rage accidents. Application in real-world for fraud detection)
+* GPA 3.84 / 4
+
+Mohamed bin Zayed University of Artificial Intelligence is the first graduate-level, research-based academic institution in the world, specializing in machine learning, computer vision and natural language processing
+
+<br>
+
+**National University of Singapore**\
+**Bachelor of Engineering (Honours) Computer Engineering**\
+Singapore\
+Aug 2015 – Jul 2019
+
+* Thesis topic: Clothes Classification and Recommendation (Project aims to identify the type of clothes present in the image and recommend consumers related clothing types from online stores. Application for customer experience using Virtual Reality and Augmented Reality)
+* GPA 3.5 / 5
+
+<br>
+
+**Professional Qualifications / Certifications**
+
+* Professional Scrum Master 1
 
 
 ## Scholastic Achievements
